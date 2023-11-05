@@ -1,3 +1,3 @@
 # Exercism
 
-This is my excerisum journy
+This is my excerisum journey 
